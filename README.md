@@ -1,2 +1,2 @@
 # Pedal_motherboard
-Guitar pedal reusabe motherboard for developpement
+Guitar pedal reusable motherboard for developpement
