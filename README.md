@@ -18,6 +18,6 @@ Guitar pedal reusable motherboard for developpement
 
 <i align="center">
   
-![preamp_non-inv](images/pre-amp2.PNG)
+![preamp_non-inv](images/pre-amp2.png)
   
 </i>
