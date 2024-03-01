@@ -14,4 +14,10 @@ Guitar pedal reusable motherboard for developpement
   
 </i>
 
+## Pre amp design non- inverseur theorique
 
+<i align="center">
+  
+![preamp_non-inv](images/pre-amp2.PNG)
+  
+</i>
