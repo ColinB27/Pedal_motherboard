@@ -7,4 +7,11 @@ Guitar pedal reusable motherboard for developpement
   
 </i>
 
+# Pre amp circuit
+<i align="center">
+  
+![preamp](images/pre-amp.PNG)
+  
+</i>
+
 
